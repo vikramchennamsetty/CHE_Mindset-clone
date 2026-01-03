@@ -1,0 +1,9 @@
+{
+  "active_niche": "finance_psychology",
+  "brand": "@CHE",
+  "voice": "en-US-GuyNeural",
+  "uploads_per_day": 2,
+  "recommended_times": ["09:30", "18:30"],
+  "min_duration": 12,
+  "max_duration": 59
+}
